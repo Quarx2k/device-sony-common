@@ -247,7 +247,6 @@ PRODUCT_PROPERTY_OVERRIDES += \
     ro.nfc.port=I2C
 
 # CM Apps
-# Gello
 PRODUCT_PACKAGES += \
     Gello \
     Snap
